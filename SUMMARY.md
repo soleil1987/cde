@@ -4,10 +4,15 @@
 
 ## 机考部分
 
+* 题库总结
+
 ## 计划制作
+
+* 计划制作
 
 ## 口试部分
 
+* [大纲](da-gang.md)
 * [规章要求](gui-zhang-yao-qiu.md)
 * [气象知识](qi-xiang-zhi-shi.md)
 * [飞行器](fei-xing-qi.md)
