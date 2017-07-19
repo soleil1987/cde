@@ -1,6 +1,7 @@
 # Summary
 
-* [前言](README.md)​
+* [前言](README.md)
+  * [about](about.md)
 
 ## 1. 规章要求
 
@@ -11,6 +12,4 @@
 ## 2. 气象知识
 
 ## 3. 航空器系统
-
-
 
