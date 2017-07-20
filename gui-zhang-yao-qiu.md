@@ -1,3 +1,14 @@
+# 和签派相关的规章
+
+* [《中华人民共和国民用航空法》](http://www.caac.gov.cn/XXGK/XXGK/FLFG/201510/t20151029_2777.html)
+* CCAR-65FS-R2[《民用航空飞行签派员执照管理规则》](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/201605/t20160530_37634.html)
+* CCAR-91-R2 [《一般运行和飞行规则》](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/201511/t20151102_8444.html)
+* CCAR-91FS-Ⅱ [《中国民用航空仪表着陆系统Ⅱ类运行规定》](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/201511/t20151102_8561.html)
+* CCAR-121-R4[《大型飞机公共航空运输承运人运行合格审定规则》](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/201605/t20160530_37660.html)
+* CCAR-135-R1 [《小型航空器商业运输运营人运行合格审定规则》](http://www.caac.gov.cn/XXGK/XXGK/MHGZ/201703/t20170310_43070.html)
+
+
+
 计划中爬升（TOD）和下降顶点的确定
 
 己知巡航高度和起飞重量，查航线升性能图表，可得爬升所需时间，所需燃油，距离。己知巡航高度和落地重量，查下降性能图表，可得下降时间，所需燃油，距离。
