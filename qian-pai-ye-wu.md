@@ -42,7 +42,7 @@
 
 #FPL填写与阅读
 
->(FPL-CES5102-IS
+(FPL-CES5102-IS
 -A333/H-SDE2E3FGHIJ5M1RWY/LB1
 -ZBAA0000
 -K0879S1010 LADIX W40 YQG W142 DALIM A593 DPX A470 DALNU W166
@@ -68,14 +68,29 @@
 | N    | 非定期的航空运输飞行         |
 | S    | 定期航班               |
 | X    | 其他                 |
+
 * `A333/H` 
+
+|数据项|含义|机型|
+|----|----|----|
+|H 重型|最大起飞全重≥136t |A333 |
+|M 中型|136t＞最大起飞全重＞7t|A320|
+|L 轻型|7t≥最大起飞全重||
+
 * `SDE2E3FGHIJ5M1RWY/LB1`
+
 * `ZBAA0000`
+
 * `K0879S1010`
+
 * `LADIX W40 YQG W142...`
+
 * `ZSSS0143`
+
 * `ZSHC`
+
 * `PBN/A1B2C1D1L101S2`
+
  
 
 
