@@ -53,7 +53,9 @@
  SEL/EFPS CODE/7800EC OPR/CHINA EASTERN
  RMK/TCAS II)
  
- `(FPL`以“（”开始，表示此报文为FPL报-`CES5102`三位呼号及航班号- `IS`
+ `(FPL`以“（”开始，表示此报文为FPL报
+ `CES5102`三位呼号及航班号
+ `IS`
 
 
 
