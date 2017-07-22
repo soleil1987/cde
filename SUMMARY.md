@@ -9,6 +9,7 @@
 ## 计划制作
 
 * [计划制作](ji-hua-zhi-zuo/ji-hua-zhi-zuo.md)
+  * [练习题目一](ji-hua-zhi-zuo/ji-hua-zhi-zuo/lian-xi-ti-mu-yi.md)
 
 ## 口试部分
 
