@@ -82,7 +82,7 @@
 
 13100米以上1200米一个高度层。
 
-![](http://www.vatprc.net/media/images/Chinese%20RVSM.jpg)
+![RVSM](http://www.vatprc.net/media/images/Chinese%20RVSM.jpg)
 
 # 航路安全高度规定
 
