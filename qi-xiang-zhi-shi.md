@@ -90,8 +90,8 @@
 
 # 什么是ATIS，在什么情况下使用
 
-**自动终端情报服务** (Automatic
-Terminal Information System, 简称**ATIS**或**情报通播**) 是在繁忙的[机场](http://baike.baidu.com/item/%E6%9C%BA%E5%9C%BA)自动连续播放的信息服务，通常在一个单独的[无线电](http://baike.baidu.com/item/%E6%97%A0%E7%BA%BF%E7%94%B5)[频率](http://baike.baidu.com/item/%E9%A2%91%E7%8E%87)上进行广播，包括主要的与飞行相关的信息，如[天气](http://baike.baidu.com/item/%E5%A4%A9%E6%B0%94)、可用[跑道](http://baike.baidu.com/item/%E8%B7%91%E9%81%93)、[气压](http://baike.baidu.com/item/%E6%B0%94%E5%8E%8B)及[高度表](http://baike.baidu.com/item/%E9%AB%98%E5%BA%A6%E8%A1%A8)拨正值等信息。[飞行员](http://baike.baidu.com/item/%E9%A3%9E%E8%A1%8C%E5%91%98)通常在和[管制员](http://baike.baidu.com/item/%E7%AE%A1%E5%88%B6%E5%91%98)等单位建立联系前收听通播，了解相关情况以减少管制员的工作量及避免频道拥挤。正常情况下通播每小时更新一次，天气变化迅速时也可随时更新，依次以字母代码 A, B, C...Z 表示，按照[ICAO](http://baike.baidu.com/item/ICAO)公布的标准[字母解释法](http://baike.baidu.com/item/%E5%AD%97%E6%AF%8D%E8%A7%A3%E9%87%8A%E6%B3%95)判读。
+**自动终端情报服务** (Automatic Terminal Information System, 简称**ATIS**或**情报通播**) 
+是在繁忙的[机场](http://baike.baidu.com/item/%E6%9C%BA%E5%9C%BA)自动连续播放的信息服务，通常在一个单独的[无线电](http://baike.baidu.com/item/%E6%97%A0%E7%BA%BF%E7%94%B5)[频率](http://baike.baidu.com/item/%E9%A2%91%E7%8E%87)上进行广播，包括主要的与飞行相关的信息，如[天气](http://baike.baidu.com/item/%E5%A4%A9%E6%B0%94)、可用[跑道](http://baike.baidu.com/item/%E8%B7%91%E9%81%93)、[气压](http://baike.baidu.com/item/%E6%B0%94%E5%8E%8B)及[高度表](http://baike.baidu.com/item/%E9%AB%98%E5%BA%A6%E8%A1%A8)拨正值等信息。[飞行员](http://baike.baidu.com/item/%E9%A3%9E%E8%A1%8C%E5%91%98)通常在和[管制员](http://baike.baidu.com/item/%E7%AE%A1%E5%88%B6%E5%91%98)等单位建立联系前收听通播，了解相关情况以减少管制员的工作量及避免频道拥挤。正常情况下通播每小时更新一次，天气变化迅速时也可随时更新，依次以字母代码 A, B, C...Z 表示，按照[ICAO](http://baike.baidu.com/item/ICAO)公布的标准[字母解释法](http://baike.baidu.com/item/%E5%AD%97%E6%AF%8D%E8%A7%A3%E9%87%8A%E6%B3%95)判读。
 
 # SPECI和SPECAL电报的区别？
 
@@ -111,6 +111,8 @@ Terminal Information System, 简称**ATIS**或**情报通播**) 是在繁忙的[
 
 # 简述风切变和下沉气流对飞行的影响
 
+低空风切变如发生在飞机的起降航径上，对飞行安全有很大威胁。
+表现为气流运动速度和方向的突然变化，飞机在这种环境下飞行，相应地就要发生突然性空速变化，空速变化就影响了升力变化，升力变化引起了飞行高度的变化，如果遇到空速突然减小，而飞行员又未能立即采取措施，飞机就会掉高度，以至于发生事故。
 
 
 # 简述颠簸和结冰对飞行的影响
