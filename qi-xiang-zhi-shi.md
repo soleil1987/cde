@@ -1,17 +1,19 @@
 # 气象电报的阅读
 
->METAR ZBAA 210950Z 30003G10MPS 3000 R18/0750D BR FEW020 SCT033CB BKN066 27/21 Q1005=
+> METAR ZBAA 210950Z 30003G10MPS 3000 R18/0750D BR FEW020 SCT033CB BKN066 27/21 Q1005=
 
-1. 识别码'METAR'
-|识别码|机场四字码|观测时间|
-|---|---|---|
-|METAR 实况报|ZBAA 北京首都|210950Z 21日9点50分 世界时|
-|SPECI 特选报|||
+1. 识别码'METAR'  
+   |识别码|机场四字码|观测时间|  
+  | :---| :---| :---|  
+   |METAR 实况报|ZBAA 北京首都|210950Z 21日9点50分 世界时|  
+   |SPECI 特选报|||
 
 2. 地面风'300003G10MPS'
-|
 
-
+|  |  |
+| :--- | :--- |
+|  |  |
+|||
 
 
 # 高空风温图的阅读
@@ -102,7 +104,7 @@
 
 # 什么是ATIS，在什么情况下使用
 
-**自动终端情报服务** \(Automatic Terminal Information System, 简称**ATIS**或**情报通播**\)   
+**自动终端情报服务** \(Automatic Terminal Information System, 简称**ATIS**或**情报通播**\)  
 是在繁忙的[机场](http://baike.baidu.com/item/机场)自动连续播放的信息服务，通常在一个单独的[无线电](http://baike.baidu.com/item/无线电)[频率](http://baike.baidu.com/item/频率)上进行广播，包括主要的与飞行相关的信息，如[天气](http://baike.baidu.com/item/天气)、可用[跑道](http://baike.baidu.com/item/跑道)、[气压](http://baike.baidu.com/item/气压)及[高度表](http://baike.baidu.com/item/高度表)拨正值等信息。[飞行员](http://baike.baidu.com/item/飞行员)通常在和[管制员](http://baike.baidu.com/item/管制员)等单位建立联系前收听通播，了解相关情况以减少管制员的工作量及避免频道拥挤。正常情况下通播每小时更新一次，天气变化迅速时也可随时更新，依次以字母代码 A, B, C...Z 表示，按照[ICAO](http://baike.baidu.com/item/ICAO)公布的标准[字母解释法](http://baike.baidu.com/item/字母解释法)判读。
 
 # SPECI和SPECAL电报的区别？
