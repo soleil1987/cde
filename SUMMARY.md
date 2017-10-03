@@ -1,6 +1,7 @@
 # Summary
 
 * [前言](README.md)
+* [签派执照考试综述](qian-pai-zhi-zhao-kao-shi-zong-shu.md)
 
 ## 机考部分
 
